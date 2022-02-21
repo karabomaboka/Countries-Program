@@ -1,0 +1,193 @@
+Afghanistan,Asia,38.1,251772
+Albania,Europe,2.9,11100
+Algeria,Africa,43.35,919595
+Andorra,Europe,.077,181
+Angola,Africa,32.8,481354
+Antigua and Barbuda,North America,.105,108
+Argentina,South America,45.5,1068302
+Armenia,Asia,2.9,11506
+Australia,Australia/Oceania,25.4,2967909
+Austria,Europe,8.8,32383
+Azerbaijan,Asia,10.1,33436
+Bahamas,North America,.41,5358
+Bahrain,Asia,1.7,253
+Bangladesh,Asia,169.8,55599
+Barbados,North America,.29,167
+Belarus,Europe,9.4,80155
+Belgium,Europe,11.6,11787
+Belize,North America,.4,8867
+Benin,Africa,12.1,43484
+Bhutan,Asia,.835,14824
+Bolivia,South America,11.5,424163
+Bosnia and Herzegovina,Europe,3.5,19767
+Botswana,Africa,2.4,224606
+Brazil,South America,213.9,3287597
+Brunei Darussalam,Asia,.445,2226
+Bulgaria,Europe,6.9,42823
+Burkina Faso,Africa,20.9,105792
+Burundi,Africa,11.9,10745
+Cambodia,Asia,16.7,69898
+Cameroon,Africa,26.0,183568
+Canada,North America,37.6,3855000
+Cape Verde,Africa,.567,1557
+Central African Republic,Africa,4.9,240534
+Chad,Africa,16.3,495753
+Chile,South America,18.5,292183
+China,Asia,1424.5,3696100
+Colombia,South America,50.2,440839
+Comoros,Africa,.87,863
+Congo,Africa,5.7,132047
+Costa Rica,North America,5.0,19730
+Cote D'Ivoire,Africa,25.6,124502
+Croatia,Europe,4.1,21831
+Cuba,North America,11.5,42803
+Cyprus,Asia,1.2,3572
+Czech Republic,Europe,10.6,30450
+Democratic People's Republic of Korea,Asia,25.8,46528
+Democratic Republic of the Congo,Africa,89.5,905355
+Denmark,Europe,5.8,16640
+Djibouti,Africa,1.0,8958
+Dominica,North America,.075,290
+Dominican Republic,North America,11.1,18704
+Ecuador,South America,17.3,98985
+Egypt,Africa,102.9,387048
+El Salvador,North America,6.5,8124
+Equatorial Guinea,Africa,1.4,10828
+Eritrea,Africa,5.4,45405
+Estonia,Europe,1.3,17413
+Ethiopia,Africa,112.8,426371
+Fiji,Australia/Oceania,.925,7056
+Finland,Europe,5.6,130596
+France,Europe,65.7,211209
+Gabon,Africa,2.2,103347
+Gambia,Africa,2.3,4007
+Georgia,Asia,3.9,26916
+Germany,Europe,82.5,137847
+Ghana,Africa,30.8,92098
+Greece,Europe,11.1,50944
+Grenada,North America,.11,132
+Guatemala,North America,17.9,42042
+Guinea,Africa,13.8,94926
+Guinea-Bissau,Africa,2.0,13948
+Guyana,South America,.79,83000
+Haiti,North America,11.4,10714
+Honduras,North America,9.7,43278
+Hungary,Europe,9.6,35919
+Iceland,Europe,.343,39770
+India,Asia,1388.9,1269210
+Indonesia,Asia,272.2,735355
+Iran,Asia,83.6,636372
+Iraq,Asia,41.5,169234
+Ireland,Europe,4.9,31520
+Israel,Asia,8.7,8019
+Italy,Europe,59.1,116346
+Jamaica,North America,2.9,4444
+Japan,Asia,126.5,145883
+Jordan,Asia,10.2,45495
+Kazakhstan,Asia,18.8,1052085
+Kenya,Africa,53.5,224080
+Kiribati,Australia/Oceania,.122,280
+Kuwait,Asia,4.3,6880
+Kyrgyzstan,Asia,6.3,77181
+Lao People's Democratic Republic,Asia,7.2,91429
+Latvia,Europe,1.9,24938
+Lebanon,Asia,6.0,4035
+Lesotho,Africa,2.3,12727
+Liberia,Africa,5.1,43000
+Libya,Africa,6.7,679359
+Liechtenstein,Europe,.039,62
+Lithuania,Europe,2.9,25173
+Luxembourg,Europe,.604,998
+Madagascar,Africa,27.7,226597
+Malawi,Africa,20.3,45747
+Malaysia,Asia,32.9,127355
+Maldives,Asia,.46,115
+Mali,Africa,20.3,478839
+Malta,Europe,.434,121
+Marshall Islands,Australia/Oceania,.053,69
+Mauritania,Africa,4.8,397954
+Mauritius,Africa,1.3,787
+Mexico,North America,133.9,761606
+Micronesia,Australia/Oceania,.108,271
+Monaco,Europe,.039,0.76
+Mongolia,Asia,3.2,603909
+Montenegro,Europe,.629,5019
+Morocco,Africa,37.1,172414
+Mozambique,Africa,32.3,309496
+Myanmar,Asia,54.8,261227
+Namibia,Africa,2.7,318696
+Nauru,Australia/Oceania,.011,8
+Nepal,Asia,30.3,56827
+Netherlands,Europe,17.2,16033
+New Zealand,Australia/Oceania,4.8,103738
+Nicaragua,North America,6.4,50193
+Niger,Africa,24.1,489678
+Nigeria,Africa,206.2,356669
+Norway,Europe,5.5,148746
+Oman,Asia,5.2,119498
+Pakistan,Asia,208.4,310403
+Palau,Australia/Oceania,.022,177
+Panama,North America,4.3,29157
+Papua New Guinea,Australia/Oceania,8.8,178703
+Paraguay,South America,7.1,157048
+Peru,South America,33.3,496226
+Philippines,Asia,109.7,115831
+Poland,Europe,37.9,120726
+Portugal,Europe,10.2,35645
+Qatar,Asia,2.8,4416
+Republic of Korea,Asia,51.5,38622
+Republic of Moldova,Europe,4.0,13067
+Romania,Europe,19.4,92043
+Russian Federation,Europe,143.8,6592800
+Rwanda,Africa,13.1,10169
+Saint Kitts and Nevis,North America,.057,101
+Saint Lucia,North America,.181,239
+Saint Vincent and the Grenadines,North America,.111,150
+Samoa,Australia/Oceania,.20,1093
+San Marino,Europe,.034,23.5
+Sao Tome and Principe,Africa,.22,372
+Saudi Arabia,Asia,34.7,829996
+Senegal,Africa,17.2,76000
+Serbia,Europe,8.7,34116
+Seychelles,Africa,.096,174
+Sierra Leone,Africa,8.6,27699
+Singapore,Asia,5.9,274.2
+Slovakia,Europe,5.5,18932
+Slovenia,Europe,2.1,7827
+Solomon Islands,Australia/Oceania,.65,43
+Somalia,Africa,16.1,246201
+South Africa,Africa,58.7,471443
+South Sudan,Africa,13.6,239285
+Spain,Europe,46.5,195364
+Sri Lanka,Asia,21.1,25332
+Sudan,Africa,43.5,967495
+Suriname,South America,.58,63251
+Swaziland,Africa,1.4,6704
+Sweden,Europe,10.0,173732
+Switzerland,Europe,8.7,15940
+Syrian Arab Republic,Asia,18.9,71479
+Tajikistan,Asia,9.5,55251
+Thailand,Asia,69.4,198115
+The former Yugoslav Republic of Macedonia,Europe,2.1,205
+Timor-Leste,Asia,1.1,5743
+Togo,Africa,8.4,21925
+Tonga,Australia/Oceania,.11,289
+Trinidad and Tobago,North America,1.4,1978
+Tunisia,Africa,11.9,63170
+Turkey,Asia,83.8,302535
+Turkmenistan,Asia,6.0,188456
+Tuvalu,Australia/Oceania,.01,10
+Uganda,Africa,47.2,91136
+Ukraine,Europe,43.6,233090
+United Arab Emirates,Asia,9.8,32278
+United Kingdom,Europe,67.3,94526
+United Republic of Tanzania,Africa,62.8,364898
+United States,North America,331.4,3794066
+Uruguay,South America,3.5,68037
+Uzbekistan,Asia,33.2,172742
+Vanuatu,Australia/Oceania,.293,4706
+Venezuela,South America,33.2,353841
+Vietnam,Asia,98.4,128527
+Yemen,Asia,30.2,203849
+Zambia,Africa,18.7,290587
+Zimbabwe,Africa,17.7,150871
